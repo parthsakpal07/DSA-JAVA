@@ -32,23 +32,6 @@ Each topic (like Arrays, Strings, Recursion) has its own folder. Inside each fol
 
 ---
 
-## 📈 Weekly Progress
-
-| Week | Topics Practiced         | Problems Solved |
-|------|--------------------------|-----------------|
-| 1    | Arrays, Strings          | 12              |
-| 2    | Sorting                  | 6               |
-| 3    | TBD                      | -               |
-
----
-
-## 🌐 Platforms Used
-
-- [LeetCode](https://leetcode.com)
-- [GeeksforGeeks](https://geeksforgeeks.org)
-- [Java (IntelliJ)](https://www.jetbrains.com/idea/)
-
----
 
 ## 💬 Connect With Me
 
@@ -58,6 +41,6 @@ Each topic (like Arrays, Strings, Recursion) has its own folder. Inside each fol
 
 ---
 
-> ⭐ Star this repo if you find it helpful!
+
 
 
