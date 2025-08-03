@@ -15,7 +15,7 @@ This repository tracks my personal journey of mastering **Data Structures and Al
 ## 📂 Folder Structure
 
 Each topic (like Arrays, Strings, Recursion) has its own folder. Inside each folder, you’ll find:
-- ✅ Java source files
+- ✅ Java source files.
 - 📄 Clean, readable code.
 
 ---
@@ -40,6 +40,7 @@ Each topic (like Arrays, Strings, Recursion) has its own folder. Inside each fol
 - 🖥️ [GitHub](https://github.com/parthsakpal07)
 
 ---
+
 
 
 
