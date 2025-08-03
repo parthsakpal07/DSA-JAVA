@@ -17,17 +17,16 @@ This repository tracks my personal journey of mastering **Data Structures and Al
 Each topic (like Arrays, Strings, Recursion) has its own folder. Inside each folder, you’ll find:
 - ✅ Java source files
 - 📄 Clean, readable code
-- 📌 Optional: Notes or concepts
 
 ---
 
 ## ✅ Topics Covered So Far
 
-| Topic         | Status    | Notes                         |
-|---------------|-----------|-------------------------------|
+| Topic         | Status      | Notes                         |
+|---------------|-----------  |-----------------------------  |
 | Arrays        | ✅ Done    | Kadane’s Algo, Prefix Sum     |
-| Strings       | ✅ Done    | Palindromes, Char Count       |
-| Sorting       | 🔄 Ongoing | Bubble, Selection, Merge      |
+| Strings       | 🔜 Coming  | Palindromes, Char Count       |
+| Sorting       | 🔜 Coming  | Bubble, Selection, Merge      |
 | Recursion     | 🔜 Coming  | Basic + Backtracking          |
 | LinkedList    | 🔜 Coming  | Reversal, Cycle Detection     |
 
@@ -60,4 +59,5 @@ Each topic (like Arrays, Strings, Recursion) has its own folder. Inside each fol
 ---
 
 > ⭐ Star this repo if you find it helpful!
+
 
