@@ -8,7 +8,7 @@
 
 ## 📌 About This Repository
 
-This repository tracks my personal journey of mastering **Data Structures and Algorithms** using **Java**. The goal is to develop a strong problem-solving mindset and prepare for placements and competitive exams (like CDS, etc.).
+This repository tracks my personal journey of mastering **Data Structures and Algorithms** using **Java**. The goal is to develop a strong problem-solving mindset.
 
 ---
 
@@ -60,3 +60,4 @@ Each topic (like Arrays, Strings, Recursion) has its own folder. Inside each fol
 ---
 
 > ⭐ Star this repo if you find it helpful!
+
