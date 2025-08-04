@@ -3,26 +3,25 @@ import java.util.*;
 public class Bruteforce {
 
     public static void bruteForce(int num[]) {
-        int maxValue = Integer.MIN_VALUE;
+        int mx = Integer.MIN_VALUE;
         int curr = 0;
 
         for(int i=0; i<num.length; i++) {
             int start = i;
             for(int j=i; j<num.length; j++) {
                 int end = j;
-                curr = 0;
-                for(int k=start; k<=end; k++) {
+                for(int k=start; k<end; k++) {
                     curr += num[k];
-                }
-                System.out.println(curr + "");
 
-                if(maxValue < curr) {
-                    maxValue = curr;
+                    if(mx < curr) {
+                        mx = curr;
+                    }
                 }
             }
-        }
 
-        System.out.println("Max sum is: " + maxValue);
+        }
+        System.out.println("max no. is: " + mx);
+
     }
 
     public static void main(String args[]) {
